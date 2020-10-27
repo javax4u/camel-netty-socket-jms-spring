@@ -17,7 +17,7 @@ public class StartSocketServerNetty {
 
         //ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://0.0.0.0:61616");
         //camelContext.addComponent("jms",JmsComponent.jmsComponentAutoAcknowledge(connectionFactory));//working
-        org.apache.activemq.pool.PooledConnectionFactory pooledConnectionFactory = (PooledConnectionFactory) appContext.getBean("pooledConnectionFactory");
+        PooledConnectionFactory pooledConnectionFactory = (PooledConnectionFactory) appContext.getBean("pooledConnectionFactory");
         camelContext.addComponent("jms", JmsComponent.jmsComponentAutoAcknowledge(pooledConnectionFactory));//working
 
         camelContext.addRoutes(new SocketToJmsRouteBuilder());

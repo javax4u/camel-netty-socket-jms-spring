@@ -20,6 +20,11 @@ Step-2: In second command prompt start client side by running run_client_second.
 ![activemq_1.png](image/activemq_1.png)
 ![activemq_2.png](image/activemq_2.png)
 ![activemq_3.png](image/activemq_3.png)
+
+### connection pool setting
+![conn_pool_config.png](image/conn_pool_config.png)
+![activemq_openwire-multiple-connection.png](image/activemq_openwire-multiple-connection.png)
+
 ## Common-Errors and FAQ
 
 ### No component found with scheme: mina
@@ -56,4 +61,16 @@ graph LR
   C -->|RollingfileAppender| E[E. application.log]
   C -->|log|F[F. Console]
 ```
+```
+graph LR
+	A[jmsConnectionFactory] --> B(pooledConnectionFactory)
+	B --> C1[JmsComponent]
+	C1 --> D{CamelContext}
+	C2[SocketToJmsRoute] --> D
+	C3[JmsToHttpRoute] --> D
+```
+### Flow Diagram
 ![Flow Diagram](image/flow_diagram.png)
+
+### Object Diagram
+![Object Diagram](image/object_diagram.png)
