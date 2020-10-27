@@ -88,3 +88,6 @@ graph LR
 
 ### Object Diagram
 ![Object Diagram](image/object_diagram.png)
+
+### Sequence Diagram
+![Sequence Diagram](image/sequence_diagram.png)

@@ -16225,3 +16225,52 @@ java.net.SocketException: Software caused connection abort: recv failed
 2020-10-27 15:15:27 [activityMonitor ReadCheckTimer] AbstractInactivityMonitor      DEBUG 30008ms elapsed since last read check.
 2020-10-27 15:15:27 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10006ms elapsed since last write check.
 2020-10-27 15:15:27 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:15:37 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10015ms elapsed since last write check.
+2020-10-27 15:15:37 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:15:47 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10001ms elapsed since last write check.
+2020-10-27 15:15:47 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:15:57 [activityMonitor ReadCheckTimer] AbstractInactivityMonitor      DEBUG 30000ms elapsed since last read check.
+2020-10-27 15:15:57 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10002ms elapsed since last write check.
+2020-10-27 15:15:57 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:16:07 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10001ms elapsed since last write check.
+2020-10-27 15:16:07 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:16:17 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10000ms elapsed since last write check.
+2020-10-27 15:16:17 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:16:27 [activityMonitor ReadCheckTimer] AbstractInactivityMonitor      DEBUG 30005ms elapsed since last read check.
+2020-10-27 15:16:27 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10013ms elapsed since last write check.
+2020-10-27 15:16:27 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:16:37 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10000ms elapsed since last write check.
+2020-10-27 15:16:37 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:16:47 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10010ms elapsed since last write check.
+2020-10-27 15:16:47 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:16:57 [activityMonitor ReadCheckTimer] AbstractInactivityMonitor      DEBUG 30015ms elapsed since last read check.
+2020-10-27 15:16:57 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10003ms elapsed since last write check.
+2020-10-27 15:16:57 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:17:07 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10002ms elapsed since last write check.
+2020-10-27 15:17:07 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:17:17 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10001ms elapsed since last write check.
+2020-10-27 15:17:17 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:17:27 [activityMonitor ReadCheckTimer] AbstractInactivityMonitor      DEBUG 30012ms elapsed since last read check.
+2020-10-27 15:17:27 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10008ms elapsed since last write check.
+2020-10-27 15:17:27 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:17:37 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10010ms elapsed since last write check.
+2020-10-27 15:17:37 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:17:48 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10009ms elapsed since last write check.
+2020-10-27 15:17:48 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:17:57 [activityMonitor ReadCheckTimer] AbstractInactivityMonitor      DEBUG 30000ms elapsed since last read check.
+2020-10-27 15:17:58 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10004ms elapsed since last write check.
+2020-10-27 15:17:58 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:18:08 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10012ms elapsed since last write check.
+2020-10-27 15:18:08 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:18:18 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10001ms elapsed since last write check.
+2020-10-27 15:18:18 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:18:27 [activityMonitor ReadCheckTimer] AbstractInactivityMonitor      DEBUG 30009ms elapsed since last read check.
+2020-10-27 15:18:28 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10001ms elapsed since last write check.
+2020-10-27 15:18:28 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:18:38 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10001ms elapsed since last write check.
+2020-10-27 15:18:38 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:18:48 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10000ms elapsed since last write check.
+2020-10-27 15:18:48 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
+2020-10-27 15:18:57 [activityMonitor ReadCheckTimer] AbstractInactivityMonitor      DEBUG 30014ms elapsed since last read check.
+2020-10-27 15:18:58 [ctivityMonitor WriteCheckTimer] AbstractInactivityMonitor      DEBUG WriteChecker: 10004ms elapsed since last write check.
+2020-10-27 15:18:58 [iveMQ InactivityMonitor Worker] AbstractInactivityMonitor      DEBUG Running WriteCheck[tcp://0.0.0.0:61616]
